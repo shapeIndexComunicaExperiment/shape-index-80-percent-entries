@@ -536,6 +536,7 @@
           "http://localhost:3000/internal/commentsFragmentation": "comments",
           "http://localhost:3000/internal/postsFragmentation": "posts"
         },
+        "probabilisticGenerationOnEntries":true,
         "datasetResourceFragmentationException": {
           "card": {
             "name": "card",
