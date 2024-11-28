@@ -1,286 +1,286 @@
 {
-  "../queries/parsed/interactive-discover-1.sparql.json": {
+  "interactive-discover-1": {
     "v0": {
       "n_results": 6,
-      "n_http_requests": 76,
+      "n_http_requests": 129,
       "execution_time": {
-        "average": 1370,
-        "min": 1370,
-        "max": 1370,
-        "std": null
+        "average": 3868.414373519999,
+        "min": 3045.1981559999986,
+        "max": 4359.539588,
+        "std": 376.09278405747773
       }
     },
     "v1": {
       "n_results": 4,
-      "n_http_requests": 7,
+      "n_http_requests": 20,
       "execution_time": {
-        "average": 142,
-        "min": 142,
-        "max": 142,
-        "std": null
+        "average": 677.9842741200002,
+        "min": 637.0770440000051,
+        "max": 729.8933479999978,
+        "std": 26.066876593324228
       }
     },
     "v2": {
       "n_results": 1,
-      "n_http_requests": 7,
+      "n_http_requests": 17,
       "execution_time": {
-        "average": 129,
-        "min": 129,
-        "max": 129,
-        "std": null
+        "average": 266.0813721000016,
+        "min": 252.69842700001027,
+        "max": 302.51986700001,
+        "std": 9.072643418863459
       }
     },
     "v3": {
       "n_results": 14,
-      "n_http_requests": 22,
+      "n_http_requests": 224,
       "execution_time": {
-        "average": 261,
-        "min": 261,
-        "max": 261,
-        "std": null
+        "average": 4276.8162275600025,
+        "min": 3699.7413640000013,
+        "max": 5154.869633999988,
+        "std": 266.65015692621404
       }
     },
     "v4": {
       "n_results": 8,
-      "n_http_requests": 64,
+      "n_http_requests": 74,
       "execution_time": {
-        "average": 1151,
-        "min": 1151,
-        "max": 1151,
-        "std": null
+        "average": 2556.8288442400003,
+        "min": 2329.0451370000083,
+        "max": 2771.5985389999987,
+        "std": 155.89013496548932
       }
     }
   },
-  "../queries/parsed/interactive-discover-2.sparql.json": {
+  "interactive-discover-2": {
     "v0": {
       "n_results": 66,
-      "n_http_requests": 116,
+      "n_http_requests": 129,
       "execution_time": {
-        "average": 1800,
-        "min": 1800,
-        "max": 1800,
-        "std": null
+        "average": 4396.651062199999,
+        "min": 3907.8438860000024,
+        "max": 5240.691592000003,
+        "std": 375.3059114199468
       }
     },
     "v1": {
       "n_results": 46,
-      "n_http_requests": 8,
+      "n_http_requests": 20,
       "execution_time": {
-        "average": 289,
-        "min": 289,
-        "max": 289,
-        "std": null
+        "average": 814.9948329199979,
+        "min": 755.8270090000005,
+        "max": 867.8575929999934,
+        "std": 31.539371216228197
       }
     },
     "v2": {
       "n_results": 32,
-      "n_http_requests": 8,
+      "n_http_requests": 18,
       "execution_time": {
-        "average": 238,
-        "min": 238,
-        "max": 238,
-        "std": null
+        "average": 570.3972104200002,
+        "min": 537.8929170000047,
+        "max": 631.3404710000032,
+        "std": 20.97229233718152
       }
     },
     "v3": {
       "n_results": 198,
-      "n_http_requests": 207,
+      "n_http_requests": 224,
       "execution_time": {
-        "average": 1501,
-        "min": 1501,
-        "max": 1501,
-        "std": null
+        "average": 4605.321301380001,
+        "min": 4127.113817999998,
+        "max": 5181.616521000004,
+        "std": 297.50382132411306
       }
     },
     "v4": {
       "n_results": 98,
-      "n_http_requests": 111,
+      "n_http_requests": 121,
       "execution_time": {
-        "average": 1593,
-        "min": 1593,
-        "max": 1593,
-        "std": null
+        "average": 3998.673594300001,
+        "min": 3456.017620999992,
+        "max": 4371.718924000001,
+        "std": 257.597426404588
       }
     }
   },
-  "../queries/parsed/interactive-discover-3.sparql.json": {
+  "interactive-discover-3": {
     "v0": {
       "n_results": 71,
-      "n_http_requests": 242,
+      "n_http_requests": 255,
       "execution_time": {
-        "average": 1366,
-        "min": 1366,
-        "max": 1366,
-        "std": null
+        "average": 3723.9977421599997,
+        "min": 3273.1670509999967,
+        "max": 4856.817043000003,
+        "std": 372.94176934589103
       }
     },
     "v1": {
       "n_results": 67,
-      "n_http_requests": 136,
+      "n_http_requests": 148,
       "execution_time": {
-        "average": 676,
-        "min": 676,
-        "max": 676,
-        "std": null
+        "average": 2178.198846919999,
+        "min": 1701.460899999991,
+        "max": 2671.153185999996,
+        "std": 305.29106890622967
       }
     },
     "v2": {
       "n_results": 55,
-      "n_http_requests": 92,
+      "n_http_requests": 102,
       "execution_time": {
-        "average": 486,
-        "min": 486,
-        "max": 486,
-        "std": null
+        "average": 1634.4957248999997,
+        "min": 1344.4225369999913,
+        "max": 1860.1916610000044,
+        "std": 126.42855781845728
       }
     },
     "v3": {
       "n_results": 203,
-      "n_http_requests": 413,
+      "n_http_requests": 430,
       "execution_time": {
-        "average": 2236,
-        "min": 2236,
-        "max": 2236,
-        "std": null
+        "average": 5997.707563239997,
+        "min": 5567.072677000004,
+        "max": 7329.9726089999895,
+        "std": 259.93314188818323
       }
     },
     "v4": {
       "n_results": 142,
-      "n_http_requests": 262,
+      "n_http_requests": 272,
       "execution_time": {
-        "average": 1676,
-        "min": 1676,
-        "max": 1676,
-        "std": null
+        "average": 3864.7394860800005,
+        "min": 3150.2176769999933,
+        "max": 5559.034922999999,
+        "std": 543.4040927515586
       }
     }
   },
-  "../queries/parsed/interactive-discover-4.sparql.json": {
+  "interactive-discover-4": {
     "v0": {
       "n_results": 5,
-      "n_http_requests": 51,
+      "n_http_requests": 64,
       "execution_time": {
-        "average": 499,
-        "min": 499,
-        "max": 499,
-        "std": null
+        "average": 1124.6455764599993,
+        "min": 987.3288949999987,
+        "max": 1405.5846420000016,
+        "std": 112.86072238403284
       }
     },
     "v1": {
       "n_results": 3,
-      "n_http_requests": 10,
+      "n_http_requests": 24,
       "execution_time": {
-        "average": 254,
-        "min": 254,
-        "max": 254,
-        "std": null
+        "average": 732.6717398200003,
+        "min": 663.872206,
+        "max": 826.9068119999865,
+        "std": 40.043234472379865
       }
     },
     "v2": {
       "n_results": 3,
-      "n_http_requests": 10,
+      "n_http_requests": 33,
       "execution_time": {
-        "average": 278,
-        "min": 278,
-        "max": 278,
-        "std": null
+        "average": 707.2286091199994,
+        "min": 641.9564470000041,
+        "max": 767.2683629999956,
+        "std": 38.481176504823715
       }
     },
     "v3": {
       "n_results": 3,
-      "n_http_requests": 194,
+      "n_http_requests": 229,
       "execution_time": {
-        "average": 1486,
-        "min": 1486,
-        "max": 1486,
-        "std": null
+        "average": 3916.1570755000007,
+        "min": 3640.1878020000004,
+        "max": 4530.999985000002,
+        "std": 200.93118706342898
       }
     },
     "v4": {
       "n_results": 7,
-      "n_http_requests": 60,
+      "n_http_requests": 154,
       "execution_time": {
-        "average": 906,
-        "min": 906,
-        "max": 906,
-        "std": null
+        "average": 3449.3665152199997,
+        "min": 3167.4038940000028,
+        "max": 3841.8944550000015,
+        "std": 223.09689087900477
       }
     }
   },
-  "../queries/parsed/interactive-discover-5.sparql.json": {
+  "interactive-discover-5": {
     "v0": {
       "n_results": 15,
-      "n_http_requests": 116,
+      "n_http_requests": 129,
       "execution_time": {
-        "average": 1058,
-        "min": 1058,
-        "max": 1058,
-        "std": null
+        "average": 3256.651725720001,
+        "min": 2319.0607630000013,
+        "max": 3793.4294260000024,
+        "std": 391.7533271172549
       }
     },
     "v1": {
       "n_results": 3,
-      "n_http_requests": 8,
+      "n_http_requests": 20,
       "execution_time": {
-        "average": 217,
-        "min": 217,
-        "max": 217,
-        "std": null
+        "average": 452.9622832399988,
+        "min": 425.4998360000027,
+        "max": 501.3549229999917,
+        "std": 18.304586026247048
       }
     },
     "v2": {
       "n_results": 3,
-      "n_http_requests": 8,
+      "n_http_requests": 18,
       "execution_time": {
-        "average": 145,
-        "min": 145,
-        "max": 145,
-        "std": null
+        "average": 346.41453336000035,
+        "min": 328.8863199999905,
+        "max": 395.1098030000139,
+        "std": 12.279660734778037
       }
     },
     "v3": {
       "n_results": 4,
-      "n_http_requests": 207,
+      "n_http_requests": 224,
       "execution_time": {
-        "average": 1097,
-        "min": 1097,
-        "max": 1097,
-        "std": null
+        "average": 3335.083230600002,
+        "min": 2984.3131500000018,
+        "max": 3541.7779439999867,
+        "std": 164.04477098814598
       }
     },
     "v4": {
       "n_results": 20,
-      "n_http_requests": 111,
+      "n_http_requests": 121,
       "execution_time": {
-        "average": 1049,
-        "min": 1049,
-        "max": 1049,
-        "std": null
+        "average": 2859.2525484199996,
+        "min": 2258.2186440000078,
+        "max": 3398.6374480000086,
+        "std": 391.12509552679796
       }
     }
   },
-  "../queries/parsed/interactive-discover-6.sparql.json": {
+  "interactive-discover-6": {
     "v0": {
       "timeout": 120000
     },
     "v1": {
       "n_results": 1,
-      "n_http_requests": 9,
+      "n_http_requests": 20,
       "execution_time": {
-        "average": 332,
-        "min": 332,
-        "max": 332,
-        "std": null
+        "average": 601.5953652799994,
+        "min": 553.6307669999951,
+        "max": 642.6911430000036,
+        "std": 24.143543655359874
       }
     },
     "v2": {
       "n_results": 1,
-      "n_http_requests": 9,
+      "n_http_requests": 25,
       "execution_time": {
-        "average": 221,
-        "min": 221,
-        "max": 221,
-        "std": null
+        "average": 538.3811958400006,
+        "min": 505.2266030000028,
+        "max": 584.963121000008,
+        "std": 19.252902031000165
       }
     },
     "v3": {
@@ -288,37 +288,37 @@
     },
     "v4": {
       "n_results": 27,
-      "n_http_requests": 112,
+      "n_http_requests": 131,
       "execution_time": {
-        "average": 2005,
-        "min": 2005,
-        "max": 2005,
-        "std": null
+        "average": 4269.814574280001,
+        "min": 3986.7328200000047,
+        "max": 4652.229725000012,
+        "std": 187.49142638408875
       }
     }
   },
-  "../queries/parsed/interactive-discover-7.sparql.json": {
+  "interactive-discover-7": {
     "v0": {
       "timeout": 120000
     },
     "v1": {
       "n_results": 1,
-      "n_http_requests": 9,
+      "n_http_requests": 20,
       "execution_time": {
-        "average": 309,
-        "min": 309,
-        "max": 309,
-        "std": null
+        "average": 606.2655686399993,
+        "min": 558.962400000004,
+        "max": 662.780031000002,
+        "std": 28.724062322571164
       }
     },
     "v2": {
       "n_results": 1,
-      "n_http_requests": 9,
+      "n_http_requests": 26,
       "execution_time": {
-        "average": 229,
-        "min": 229,
-        "max": 229,
-        "std": null
+        "average": 577.84436816,
+        "min": 543.4133350000047,
+        "max": 610.8094379999966,
+        "std": 19.233142904621992
       }
     },
     "v3": {
@@ -326,99 +326,16 @@
     },
     "v4": {
       "n_results": 1,
-      "n_http_requests": 112,
+      "n_http_requests": 132,
       "execution_time": {
-        "average": 9689,
-        "min": 9689,
-        "max": 9689,
-        "std": null
+        "average": 3509.6182543200002,
+        "min": 3201.6776979999995,
+        "max": 3968.7449919999926,
+        "std": 232.61050788772684
       }
     }
   },
-  "../queries/parsed/interactive-discover-8.sparql.json": {
-    "v0": {
-      "n_results": 10,
-      "n_http_requests": 1926,
-      "execution_time": {
-        "average": 17171,
-        "min": 17171,
-        "max": 17171,
-        "std": null
-      }
-    },
-    "v1": {
-      "timeout": 120000
-    },
-    "v2": {
-      "n_results": 10,
-      "n_http_requests": 1627,
-      "execution_time": {
-        "average": 8146,
-        "min": 8146,
-        "max": 8146,
-        "std": null
-      }
-    },
-    "v3": {
-      "timeout": 120000
-    },
-    "v4": {
-      "timeout": 120000
-    }
-  },
-  "../queries/parsed/interactive-short-1.sparql.json": {
-    "v0": {
-      "n_results": 1,
-      "n_http_requests": 6,
-      "execution_time": {
-        "average": 134,
-        "min": 134,
-        "max": 134,
-        "std": null
-      }
-    },
-    "v1": {
-      "n_results": 1,
-      "n_http_requests": 6,
-      "execution_time": {
-        "average": 121,
-        "min": 121,
-        "max": 121,
-        "std": null
-      }
-    },
-    "v2": {
-      "n_results": 1,
-      "n_http_requests": 6,
-      "execution_time": {
-        "average": 124,
-        "min": 124,
-        "max": 124,
-        "std": null
-      }
-    },
-    "v3": {
-      "n_results": 1,
-      "n_http_requests": 6,
-      "execution_time": {
-        "average": 130,
-        "min": 130,
-        "max": 130,
-        "std": null
-      }
-    },
-    "v4": {
-      "n_results": 1,
-      "n_http_requests": 6,
-      "execution_time": {
-        "average": 122,
-        "min": 122,
-        "max": 122,
-        "std": null
-      }
-    }
-  },
-  "../queries/parsed/interactive-short-2.sparql.json": {
+  "interactive-discover-8": {
     "v0": {
       "timeout": 120000
     },
@@ -435,7 +352,59 @@
       "timeout": 120000
     }
   },
-  "../queries/parsed/interactive-short-3.sparql.json": {
+  "interactive-short-1": {
+    "v0": {
+      "n_results": 1,
+      "n_http_requests": 130,
+      "execution_time": {
+        "average": 1918.9391441799996,
+        "min": 1671.9139450000075,
+        "max": 2061.707165,
+        "std": 93.76315176624115
+      }
+    },
+    "v1": {
+      "n_results": 1,
+      "n_http_requests": 21,
+      "execution_time": {
+        "average": 465.7608336199989,
+        "min": 412.88477199999033,
+        "max": 509.1379770000058,
+        "std": 24.80530203615353
+      }
+    },
+    "v2": {
+      "n_results": 1,
+      "n_http_requests": 27,
+      "execution_time": {
+        "average": 448.43152064000026,
+        "min": 423.89389399999345,
+        "max": 486.48191800000495,
+        "std": 14.46115588721899
+      }
+    },
+    "v3": {
+      "n_results": 1,
+      "n_http_requests": 225,
+      "execution_time": {
+        "average": 3098.6647358599994,
+        "min": 2775.070961000005,
+        "max": 3279.1210610000126,
+        "std": 105.38271986054156
+      }
+    },
+    "v4": {
+      "n_results": 1,
+      "n_http_requests": 27,
+      "execution_time": {
+        "average": 455.08582795999973,
+        "min": 421.3744399999996,
+        "max": 500.9816349999892,
+        "std": 18.039349851021
+      }
+    }
+  },
+  "interactive-short-2": {
     "v0": {
       "timeout": 120000
     },
@@ -452,170 +421,159 @@
       "timeout": 120000
     }
   },
-  "../queries/parsed/interactive-short-4.sparql.json": {
+  "interactive-short-3": {
     "v0": {
-      "n_results": 1,
-      "n_http_requests": 5,
-      "execution_time": {
-        "average": 254,
-        "min": 254,
-        "max": 254,
-        "std": null
-      }
+      "timeout": 120000
     },
     "v1": {
-      "n_results": 1,
-      "n_http_requests": 5,
-      "execution_time": {
-        "average": 250,
-        "min": 250,
-        "max": 250,
-        "std": null
-      }
+      "timeout": 120000
     },
     "v2": {
-      "n_results": 1,
-      "n_http_requests": 6,
-      "execution_time": {
-        "average": 95,
-        "min": 95,
-        "max": 95,
-        "std": null
-      }
+      "timeout": 120000
     },
     "v3": {
-      "n_results": 1,
-      "n_http_requests": 6,
-      "execution_time": {
-        "average": 109,
-        "min": 109,
-        "max": 109,
-        "std": null
-      }
+      "timeout": 120000
     },
     "v4": {
-      "n_results": 1,
-      "n_http_requests": 5,
-      "execution_time": {
-        "average": 203,
-        "min": 203,
-        "max": 203,
-        "std": null
-      }
+      "timeout": 120000
     }
   },
-  "../queries/parsed/interactive-short-5.sparql.json": {
+  "interactive-short-4": {
     "v0": {
-      "n_results": 0,
+      "n_results": 1,
       "n_http_requests": 6,
       "execution_time": {
-        "average": 197,
-        "min": 197,
-        "max": 197,
-        "std": null
+        "average": 590.9184166200002,
+        "min": 549.6670040000026,
+        "max": 659.4446000000025,
+        "std": 28.906112827667428
       }
     },
     "v1": {
-      "n_results": 0,
-      "n_http_requests": 5,
-      "execution_time": {
-        "average": 295,
-        "min": 295,
-        "max": 295,
-        "std": null
-      }
-    },
-    "v2": {
-      "n_results": 0,
-      "n_http_requests": 6,
-      "execution_time": {
-        "average": 512,
-        "min": 512,
-        "max": 512,
-        "std": null
-      }
-    },
-    "v3": {
-      "n_results": 0,
+      "n_results": 1,
       "n_http_requests": 7,
       "execution_time": {
-        "average": 154,
-        "min": 154,
-        "max": 154,
-        "std": null
+        "average": 677.6987117799986,
+        "min": 626.4932439999975,
+        "max": 765.8173979999992,
+        "std": 31.967865884543542
       }
-    },
-    "v4": {
-      "n_results": 0,
-      "n_http_requests": 38,
-      "execution_time": {
-        "average": 499,
-        "min": 499,
-        "max": 499,
-        "std": null
-      }
-    }
-  },
-  "../queries/parsed/interactive-short-6.sparql.json": {
-    "v0": {
-      "timeout": 120000
-    },
-    "v1": {
-      "timeout": 120000
     },
     "v2": {
-      "timeout": 120000
+      "n_results": 1,
+      "n_http_requests": 8,
+      "execution_time": {
+        "average": 164.30781577999994,
+        "min": 158.5350560000079,
+        "max": 178.39065099999425,
+        "std": 4.201279290632461
+      }
     },
     "v3": {
-      "timeout": 120000
-    },
-    "v4": {
-      "timeout": 120000
-    }
-  },
-  "../queries/parsed/interactive-short-7.sparql.json": {
-    "v0": {
-      "timeout": 120000
-    },
-    "v1": {
-      "n_results": 0,
-      "n_http_requests": 5,
+      "n_results": 1,
+      "n_http_requests": 7,
       "execution_time": {
-        "average": 177,
-        "min": 177,
-        "max": 177,
-        "std": null
+        "average": 167.45114513999957,
+        "min": 160.96293499998865,
+        "max": 183.534507999997,
+        "std": 4.491154857085491
       }
     },
-    "v2": {
-      "n_results": 0,
+    "v4": {
+      "n_results": 1,
       "n_http_requests": 12,
       "execution_time": {
-        "average": 228,
-        "min": 228,
-        "max": 228,
-        "std": null
+        "average": 570.92714194,
+        "min": 527.6129780000047,
+        "max": 619.5830809999898,
+        "std": 22.744582751486043
+      }
+    }
+  },
+  "interactive-short-5": {
+    "v0": {
+      "n_results": 1,
+      "n_http_requests": 40,
+      "execution_time": {
+        "average": 799.4659388800012,
+        "min": 742.9861459999956,
+        "max": 934.3184520000068,
+        "std": 37.96999680396849
+      }
+    },
+    "v1": {
+      "n_results": 1,
+      "n_http_requests": 39,
+      "execution_time": {
+        "average": 1003.2266612599991,
+        "min": 934.0470140000107,
+        "max": 1070.9450589999906,
+        "std": 43.034966733940166
+      }
+    },
+    "v2": {
+      "n_results": 1,
+      "n_http_requests": 9,
+      "execution_time": {
+        "average": 1677.8399677799991,
+        "min": 1552.7476099999913,
+        "max": 1847.5960699999996,
+        "std": 95.29750199570876
       }
     },
     "v3": {
-      "n_results": 0,
-      "n_http_requests": 633,
+      "n_results": 1,
+      "n_http_requests": 44,
       "execution_time": {
-        "average": 2177,
-        "min": 2177,
-        "max": 2177,
-        "std": null
+        "average": 622.3995906600001,
+        "min": 581.7389830000029,
+        "max": 666.6944559999974,
+        "std": 19.940181081546086
       }
     },
     "v4": {
-      "n_results": 0,
-      "n_http_requests": 152,
+      "n_results": 1,
+      "n_http_requests": 53,
       "execution_time": {
-        "average": 623,
-        "min": 623,
-        "max": 623,
-        "std": null
+        "average": 1271.6299195200015,
+        "min": 1151.2899250000046,
+        "max": 1364.9962280000036,
+        "std": 51.921738833393306
       }
+    }
+  },
+  "interactive-short-6": {
+    "v0": {
+      "timeout": 120000
+    },
+    "v1": {
+      "timeout": 120000
+    },
+    "v2": {
+      "timeout": 120000
+    },
+    "v3": {
+      "timeout": 120000
+    },
+    "v4": {
+      "timeout": 120000
+    }
+  },
+  "interactive-short-7": {
+    "v0": {
+      "timeout": 120000
+    },
+    "v1": {
+      "timeout": 120000
+    },
+    "v2": {
+      "timeout": 120000
+    },
+    "v3": {
+      "timeout": 120000
+    },
+    "v4": {
+      "timeout": 120000
     }
   }
 }
