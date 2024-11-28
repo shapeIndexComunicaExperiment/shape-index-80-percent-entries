@@ -1,6 +1,6 @@
 # Shape Index Solidbench Experiment with Comunica where 80% of the shape index entries are closed shapes 
 
-Experiments to benchmark solid bench queries using the shape index approach, where 80% of the shape index entries are closed shapes.
+Experiments to benchmark solidbench queries using the shape index approach, where 80% of the shape index entries are closed shapes.
 The queries are available in the `./queries` directory.
 This experiment tests a setup where each dataset is described maximally using shapes and a shape index.
 
